@@ -1,6 +1,6 @@
 # ToDoAppAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Esse projeto foi feito com base no tutorial do [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_todo_list_beginning).
 
 ## Development server
 
