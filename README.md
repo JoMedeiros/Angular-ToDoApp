@@ -3,7 +3,7 @@
 Esse projeto foi feito com base no tutorial do [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_todo_list_beginning).
 
 ## TODO
-- [ ] [https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_item_component]
+- [ ] [Próximo Passo](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_filtering)
 
 ## Development server
 
